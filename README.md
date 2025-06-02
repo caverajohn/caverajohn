@@ -6,6 +6,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ![Static Badge](https://img.shields.io/badge/Chess-caverajohn-black?style=for-the-badge&logo=chessdotcom&logoColor=%2381B64C&labelColor=black)
 
+![Static Badge](https://img.shields.io/badge/Lichess-caverajohn-black?style=for-the-badge&logo=lichess&logoColor=white&labelColor=black)
+
 
 ### 🧰 Languages and Tools
 
