@@ -5,7 +5,6 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
 ![Static Badge](https://img.shields.io/badge/Chess-caverajohn-black?style=for-the-badge&logo=chessdotcom&logoColor=%2381B64C&labelColor=black)
-
 ![Static Badge](https://img.shields.io/badge/Lichess-caverajohn-black?style=for-the-badge&logo=lichess&logoColor=white&labelColor=black)
 
 
