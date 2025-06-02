@@ -294,7 +294,7 @@
     alt="LaTeX" 
     title="LaTeX"
     width="30px" 
-    style="padding-right: 10px;background-color:'white'" 
+    style="padding-right: 10px;color:'white'" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" 
 />
 
