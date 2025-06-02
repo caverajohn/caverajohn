@@ -114,7 +114,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Arduino" 
@@ -123,7 +122,6 @@
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Blender" 
@@ -170,6 +168,24 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/godot/godot-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Framework" 
+    title="Framework7"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/framework7/framework7-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" 
 />
 
 <br/>
