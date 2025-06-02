@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ![Static Badge](https://img.shields.io/badge/Lichess-caverajohn-black?style=for-the-badge&logo=lichess&logoColor=white&labelColor=black)
 
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools (Just some oh them)
 <hr/>
 <p>
 <img 
