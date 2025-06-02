@@ -92,7 +92,7 @@ I'm an indie full-stack developer and content creator building my version of the
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 </p>
-
+<p>&nbsp;</p>
 <p>
 <img 
     align="left" 
@@ -175,7 +175,7 @@ I'm an indie full-stack developer and content creator building my version of the
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cloudflare/cloudflare-original.svg" 
 />
 </p>
-
+<p>&nbsp;</p>
 <p>
 <img 
     align="left" 
