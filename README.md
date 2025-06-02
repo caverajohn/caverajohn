@@ -297,6 +297,22 @@
     style="padding-right: 10px;color:'white'" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/composer/composer-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;color:'white'" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;color:'white'" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" 
+/>
 
 <br/>
 <br/>
