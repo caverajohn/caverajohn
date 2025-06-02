@@ -218,7 +218,6 @@ I'm an indie full-stack developer and content creator building my version of the
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/quasar/quasar-original.svg" 
 />
 </p>
-
 <img 
     align="left" 
     alt="Ubuntu" 
@@ -243,7 +242,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" 
 />
-
 <img 
     align="left" 
     alt="PostgreSql" 
@@ -312,7 +310,8 @@ I'm an indie full-stack developer and content creator building my version of the
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" 
 />
 </p>
-
+<br/>
+<br/>
 #
 
 ### 📊 Stats
