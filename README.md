@@ -206,7 +206,25 @@
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Vercel" 
+    title="Vercel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vercel/vercel-original.svg" 
+/>
 </p>
+
+<img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" 
+/>
 
 <br/>
 <br/>
