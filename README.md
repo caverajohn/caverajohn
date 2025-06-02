@@ -262,6 +262,33 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Nginx" 
+    title="Nginx"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-plain.svg" 
+/>
+
 <br/>
 <br/>
 
