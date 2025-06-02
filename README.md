@@ -260,6 +260,9 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" 
 />
+</p>
+<br/><br/>
+<p>
 <img 
     align="left" 
     alt="Nginx" 
