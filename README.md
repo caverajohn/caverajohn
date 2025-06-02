@@ -209,11 +209,11 @@
 
 <img 
     align="left" 
-    alt="Vercel" 
-    title="Vercel"
+    alt="Quasar" 
+    title="Quasar"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vercel/vercel-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/quasar/quasar-original.svg" 
 />
 </p>
 
