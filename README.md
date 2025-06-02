@@ -131,6 +131,24 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Wordpress" 
+    title="Wordpress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-original.svg" 
+/>
+
 </p>
 &nbsp;
 <p>
