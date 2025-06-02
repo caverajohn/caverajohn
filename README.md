@@ -235,6 +235,24 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Pycharm" 
+    title="Pycharm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSql" 
+    title="PostgreSql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" 
+/>
+
 <br/>
 <br/>
 
