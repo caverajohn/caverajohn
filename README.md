@@ -9,7 +9,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 ### 🧰 Languages and Tools
-<br/><br/>
+<hr/>
 <p>
 <img 
     align="left" 
