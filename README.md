@@ -290,7 +290,7 @@ I'm an indie full-stack developer and content creator building my version of the
     alt="Composer" 
     title="Composer"
     width="30px" 
-    style="padding-right: 10px;color:'white'" 
+    style="padding-right: 10px" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/composer/composer-original.svg" 
 />
 <img 
@@ -298,7 +298,7 @@ I'm an indie full-stack developer and content creator building my version of the
     alt="Dart" 
     title="Dart"
     width="30px" 
-    style="padding-right: 10px;color:'white'" 
+    style="padding-right: 10px" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" 
 />
 <img 
@@ -306,7 +306,7 @@ I'm an indie full-stack developer and content creator building my version of the
     alt="Flutter" 
     title="Flutter"
     width="30px" 
-    style="padding-right: 10px;color:'white'" 
+    style="padding-right: 10px" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" 
 />
     <img 
@@ -314,7 +314,7 @@ I'm an indie full-stack developer and content creator building my version of the
     alt="Unity" 
     title="Unity"
     width="30px" 
-    style="padding-right: 10px;color:'white'" 
+    style="padding-right: 10px" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-original.svg" 
 />
 </p>
