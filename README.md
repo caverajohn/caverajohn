@@ -1,6 +1,11 @@
-## John Cavera
+## ☠️ John Cavera
 
-### 🤖 Linguagens e Tecnologias
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+
+### 🧰 Languages and Tools
+
 <p>
 <img 
     align="left" 
@@ -316,6 +321,13 @@
 
 <br/>
 <br/>
+
+#
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Coding with Claude 4 is actually insane](https://ytcards.demolab.com/?id=lhjGDKqutB0&title=Coding+with+Claude+4+is+actually+insane&lang=en&timestamp=1748105710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1187 "Coding with Claude 4 is actually insane")](https://www.youtube.com/watch?v=lhjGDKqutB0)
 
 <!--
 **caverajohn/caverajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
