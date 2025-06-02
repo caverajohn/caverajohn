@@ -142,7 +142,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Csharp" 
@@ -151,7 +150,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Wordpress" 
@@ -160,7 +158,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Canva" 
@@ -169,7 +166,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Cloudflare" 
@@ -181,7 +177,6 @@ I'm an indie full-stack developer and content creator building my version of the
 </p>
 <br/><br/>
 <p>
-
 <img 
     align="left" 
     alt="Jetbrains" 
@@ -190,7 +185,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jetbrains/jetbrains-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Godot" 
@@ -199,7 +193,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/godot/godot-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Framework" 
@@ -208,7 +201,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/framework7/framework7-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Docker" 
@@ -217,7 +209,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Quasar" 
@@ -236,7 +227,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Sqlite" 
@@ -245,7 +235,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Pycharm" 
@@ -263,7 +252,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Photoshop" 
@@ -272,7 +260,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Nginx" 
@@ -281,7 +268,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Mysql" 
@@ -290,7 +276,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Linux" 
@@ -299,7 +284,6 @@ I'm an indie full-stack developer and content creator building my version of the
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Composer" 
