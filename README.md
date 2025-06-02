@@ -316,6 +316,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
+<hr/>
+
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=caverajohn&show_icons=true&theme=gruvbox)
 
 <!--
