@@ -253,6 +253,15 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Photoshop" 
+    title="Photoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" 
+/>
+
 <br/>
 <br/>
 
