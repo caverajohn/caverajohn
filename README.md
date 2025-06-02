@@ -1,7 +1,7 @@
 ## John Cavera
 
 ### 🤖 Linguagens e Tecnologias
-
+<p>
 <img 
     align="left" 
     alt="HTML"
@@ -131,8 +131,8 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" 
 />
 
-<br/>
-<br/>
+</p>
+<p>
 
 <img 
     align="left" 
@@ -187,6 +187,7 @@
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" 
 />
+</p>
 
 <br/>
 <br/>
