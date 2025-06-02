@@ -124,6 +124,15 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain.svg" 
+/>
+
 <br/>
 <br/>
 
