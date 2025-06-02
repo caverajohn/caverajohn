@@ -117,8 +117,8 @@
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Arduino" 
+    title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" 
@@ -126,8 +126,8 @@
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Blender" 
+    title="Blender"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" 
@@ -135,11 +135,38 @@
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Canva" 
+    title="Canva"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Cloudflare" 
+    title="Cloudflare"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cloudflare/cloudflare-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jetbrains" 
+    title="Jetbrains"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jetbrains/jetbrains-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Godot" 
+    title="Godot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/godot/godot-original.svg" 
 />
 
 <br/>
