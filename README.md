@@ -226,6 +226,15 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Sqlite" 
+    title="Sqlite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" 
+/>
+
 <br/>
 <br/>
 
