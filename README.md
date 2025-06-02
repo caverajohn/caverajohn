@@ -291,11 +291,11 @@
 
 <img 
     align="left" 
-    alt="LaTeX" 
-    title="LaTeX"
+    alt="Composer" 
+    title="Composer"
     width="30px" 
     style="padding-right: 10px;color:'white'" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/composer/composer-original.svg" 
 />
 
 <br/>
