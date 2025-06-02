@@ -324,10 +324,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
+### 📊 Stats
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Coding with Claude 4 is actually insane](https://ytcards.demolab.com/?id=lhjGDKqutB0&title=Coding+with+Claude+4+is+actually+insane&lang=en&timestamp=1748105710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1187 "Coding with Claude 4 is actually insane")](https://www.youtube.com/watch?v=lhjGDKqutB0)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
 <!--
 **caverajohn/caverajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
