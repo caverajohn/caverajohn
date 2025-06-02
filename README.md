@@ -133,6 +133,9 @@
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" 
 />
 
+<br/>
+<br/>
+
 <img 
     align="left" 
     alt="Canva" 
